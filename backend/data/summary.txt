@@ -1,0 +1,13 @@
+I am Master’s student in Data Science at Otto Von Guericke University, Magdeburg, Germany.
+My main research focus is on generative AI, LLM, RAG, Agentic AI.
+I am particularly interested in embedding AI capabilities into enterprise software to address complex business problems and automate end-to-end workflows.
+
+My skills :
+I am skilled in statistical data analysis, LLM Fine-tuning, AI automation, optimization and evaluation of RAG pipelines and orchestration of scalable multi-agent workflows. 
+I am proficient in building LLM powered full-stack applications using frameworks like Fast API, React, Next.js, Gradio, Streamlit and low-code tools like n8n. 
+I am also experienced in deployment and monitoring of AI applications over Docker and AWS.
+
+My Professional Experience :
+I have 3+ years of professional experience as a Full Stack Software Developer at Nomura Research Institute Financial Technologiees, Kolkata, India.
+I am currently working as a part-time developer as a student for this university application.
+I am also currently working as a research assistant at Leibniz Institute for Resilience Research, Mainz, where I conduct statistical analyses and data preprocessing on behavioral data.

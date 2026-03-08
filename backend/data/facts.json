@@ -1,0 +1,22 @@
+{
+  "full_name": "Imon Kalyan Ghosh",
+  "name": "imon",
+  "current_role": "Master's Student in Data Science at Otto von Guericke University",
+  "location": "Magdeburg, Germany",
+  "email": "imonghose@gmail.com",
+  "github": "https://github.com/ImonGhosh",
+  "linkedin": "https://www.linkedin.com/in/imon-ghose-467a4722a/",
+  "specialties": [
+    "Full Stack Software Development",
+    "LLM Engineering, Agentic AI, RAG",
+    "Cloud and DevOps (Github, Docker, AWS)"
+  ],
+  "years_experience": 3,
+  "education": [
+    {
+      "degree": "Bachelor's in Information Technology",
+      "institution": "Techno Main Salt Lake",
+      "year": "2020"
+    }
+  ]
+}
